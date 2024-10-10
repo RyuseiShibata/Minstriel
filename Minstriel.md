@@ -101,6 +101,17 @@ Minstrelの効果を検証するために、複数のタスクに対してプロ
 
 ---
 
+@misc{wang2024langgptrethinkingstructuredreusable,
+      title={LangGPT: Rethinking Structured Reusable Prompt Design Framework for LLMs from the Programming Language}, 
+      author={Ming Wang and Yuanzhong Liu and Xiaoyu Liang and Songlian Li and Yijie Huang and Xiaoming Zhang and Sijia Shen and Chaofeng Guan and Daling Wang and Shi Feng and Huaiwen Zhang and Yifei Zhang and Minghui Zheng and Chi Zhang},
+      year={2024},
+      eprint={2402.16929},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2402.16929}, 
+}
+
+
 ## 参考文献
 
 - Wang, M., Liu, Y., Liang, X., Huang, Y., Wang, D., Yang, X., Shen, S., Feng, S., Zhang, X., Guan, C., Zhang, Y. (2024). Minstrel: Structural Prompt Generation with Multi-Agents Coordination for Non-AI Experts. [arXiv:2409.13449](https://arxiv.org/abs/2409.13449)
